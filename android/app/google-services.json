@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479904901901",
+    "project_id": "figmatask-fa44a",
+    "storage_bucket": "figmatask-fa44a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479904901901:android:83e7b468bf8c327e8bde44",
+        "android_client_info": {
+          "package_name": "com.example.user_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479904901901-a9aa5l54bvsaofknuda979h16r2kh27b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD78DTc9z-W3F_inLXcZWy23lY1VGR66qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479904901901-a9aa5l54bvsaofknuda979h16r2kh27b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
